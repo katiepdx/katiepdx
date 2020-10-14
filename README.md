@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello World! 
+
+I am a full stack software engineer with experience managing teams in a bilingual environment, developing curriculum for an overseas international school, and ESL teaching. Passionate about software creation and UI/UX design. I thrive in creative, fast-paced environments that involve collaboration and constant learning! 
+
+**Tech Stack**
+- Languages: JavaScript, HTML/CSS
+- Frameworks/Libraries: React, Node, Express, PugJS
+- Databases: PostgreSQL
+- Tools: Git, GitHub, Postman, pgAdmin, Heroku, Netlify, Slack, VSCode, CLI
+- Dev Practices: TDD (QUnit, Jest, Supertest), Mob Programming, Pair Programming
 
 <!--
 **katiepdx/katiepdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
