@@ -4,7 +4,7 @@ I am a full stack software engineer with experience managing teams in a bilingua
 
 **Tech Stack**
 - Languages: JavaScript, HTML/CSS
-- Frameworks/Libraries: React, Node, Express, PugJS
+- Frameworks/Libraries: React, Redux, Node, Express, ChanceJS, PugJS, Socket.io, SCSS
 - Databases: PostgreSQL
 - Tools: Git, GitHub, Postman, pgAdmin, Heroku, Netlify, Slack, VSCode, CLI
 - Dev Practices: TDD (QUnit, Jest, Supertest), Mob Programming, Pair Programming
